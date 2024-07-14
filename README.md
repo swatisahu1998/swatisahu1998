@@ -1,12 +1,15 @@
 <h3 align="left">Hello👋 World🌏</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatisahu1998&label=Profile%20views&color=0e75b6&style=flat" alt="swatisahu1998" /> </p>
+<h5 align="center">I AM SWATI SAHU</h5>
 <h6 align="center">🔆A passionate DevOps Engineer from India🔆</h6>
-
------------
+<hr />
 
 <p align="Justify">I am <b>Swati Sahu</b>, A technology-driven DevOps Engineer with 2.7 years of experience, skilled in translating business requirements into code and software solutions. Proficient in various development environments, front-end languages, and cloud technologies (AWS, Azure, Docker). Experienced in Agile methodology, project management, and client support, with strong technical analysis and interpersonal skills.</p>
+<img align="right" alt="GIF" src="https://github.com/swatisahu1998/swatisahu1998/blob/main/undraw_learning_sketching_nd4f.png" width="500" height="320" />
 
 - 🔭 I’m currently working on **Projects Related to PowerBI**
+  
+- 🌱 I’m currently learning about : **Everything**
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
